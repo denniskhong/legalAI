@@ -13,14 +13,25 @@ Email: [wkkhong@mmu.edu.my](mailto:wkkhong@mmu.edu.my)
 
 ### Ollama
 
-Some of the Ollama models are fine-tuned models from foundational models while other models may just a be normal model with a legal-specific system prompot wrapper.
+Below are Ollama models that are fine-tuned using law datasets.
 
-* [AI Attorney based on Llama 3.1:8B](https://ollama.com/ALIENTELLIGENCE/attorney2)
+* [Ambedkar LLM based on LLama 3 fine-tuned with Indian law](https://ollama.com/santhoshj/ambedkar)
 * [Indian law based on Qwen2](https://ollama.com/kartikm7/indian-lawen2-1.5b)
-* [Initium/Law_model based on Mistral 7B](https://ollama.com/initium/law_model)
+* [Initium/Law_model based on Mistral 7B (same as Saul)](https://ollama.com/initium/law_model)
 * [Mr. Hua's Chinese law based on Llama 3:8B](https://ollama.com/mrhua/llama3-8b-chinese-lora-law_f16_q4_0)
-* [Saul Instruct](https://ollama.com/adrienbrault/saul-instruct-v1)* 
+* [Saul Instruct](https://ollama.com/adrienbrault/saul-instruct-v1)
+
 
 ## AI Agents
 * [Claud Legal Productivity Plugin](https://github.com/anthropics/knowledge-work-plugins/tree/main/legal)
 
+
+## Articles
+
+* [LawShift: Benchmarking Legal Judgment Prediction Under Statute Shifts](https://openreview.net/forum?id=5SpFenlxDF)
+
+
+## Law Datasets
+
+* [Indian law dataset](https://huggingface.co/datasets/viber1/indian-law-dataset)
+* [LawShift](https://huggingface.co/datasets/triangularPeach/LawShift/)
