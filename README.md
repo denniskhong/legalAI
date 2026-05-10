@@ -5,6 +5,12 @@ This page serves as a database of useful LLM-based legal AI tools such as softwa
 Dennis Khong<br>
 Email: [wkkhong@mmu.edu.my](mailto:wkkhong@mmu.edu.my)
 
+## Software
+
+* [Harvey (commercial)](https://www.harvey.ai/)
+* [Legora (commercial)](https://legora.com/)
+* [Mike OSS (open source)](https://mikeoss.com/)
+
 ## Legal AI Models
 
 ### Hugging Faces
