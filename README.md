@@ -31,6 +31,8 @@ Below are Ollama models that are fine-tuned using law datasets.
 ## AI Agents
 * [Claude Legal Productivity Plugin](https://github.com/anthropics/knowledge-work-plugins/tree/main/legal)
 
+## Frameworks
+* [falkor-irac for Indian case law](https://github.com/joyboseroy/falkor-irac)
 
 ## Articles
 
