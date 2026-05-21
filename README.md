@@ -8,6 +8,7 @@ Email: [wkkhong@mmu.edu.my](mailto:wkkhong@mmu.edu.my)
 ## Software
 
 * [Harvey (commercial)](https://www.harvey.ai/)
+* [Lavern (open source)](https://github.com/AnttiHero/lavern)
 * [Legora (commercial)](https://legora.com/)
 * [Mike OSS (open source)](https://mikeoss.com/)
 
