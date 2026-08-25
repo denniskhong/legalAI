@@ -37,7 +37,9 @@ Below are Ollama models that are fine-tuned using law datasets.
 
 ## Articles
 
+* [Can LLMs Reason in a Legally Meaningful Manner? A Small-scale Study on European Court of Human Rights Cases](https://arxiv.org/abs/2608.17168v1)
 * [LawShift: Benchmarking Legal Judgment Prediction Under Statute Shifts](https://openreview.net/forum?id=5SpFenlxDF)
+* [Sycophants in the Courtroom: Are LLMs Fragile to Juridical Authority and Evolving Legal Standards?](https://arxiv.org/abs/2608.21409)
 
 
 ## Law Datasets
